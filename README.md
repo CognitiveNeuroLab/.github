@@ -2,6 +2,6 @@
 
 I think we should add here things per repository (that we talked about before)
 
-This needs to be added in a different file than readme file (or we cannot pin it to the CognitiveNeurolab main page. 
+This DOES NOT needs to be added in a different file than readme file . I originally thought this, so we could add the whole index in here if we prefer.
 
 I think we should defintly think what info we need on each repository. It should not be too much per repository but also clear.
