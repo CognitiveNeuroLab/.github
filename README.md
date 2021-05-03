@@ -16,40 +16,6 @@
   <p align="center">
     Indexing for the CNL github
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#how-to-keep-this-index-up-to-date">How to keep this index up-to-date</a>
-      <ul>
-        <li><a href="#Who-should-add-to-this-index">Who should add to this index</a></li>
-        <li><a href="#when-to-add-to-this-index">When to add to this index</a></li>
-        <li><a href="#how-to-add-to-this-index">How to add to this index</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#index">Index</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#index">Index</a></li>
-    <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-**try somting new**
-
 <!-- TABLE OF CONTENTS -->
 **Table of Contents**
   
@@ -58,9 +24,9 @@
   - [When to add to this index](#when-to-add-to-this-index)
   - [How to add to this index](#how-to-add-to-this-index)  
 2. [Index](#index)
-  - [pipelines](#pipelines)
+  - [Pipelines](#pipelines)
     - [Pipeline_EEG_to_ERP_EEGlab_stats_R](#pipeline-eeg-to-erp-eeglab-stats-r)
-  - [utilities](#utilities)
+  - [Utilities](#utilities)
       
  
 
@@ -78,18 +44,21 @@ As soon as you add anything to the main CNL github.
 ### How to add to this index
 #### Adding a new sub-group
 Let's say you are the first to create the subgroup "pipelines". You look below the line that says "## index" and look alphabetically where it goes. Since it's a subgroup, you put 2 # before the name + 1 space. 
-After that you need to add this also to the table of content. You do this by scrolling up to the table of content, 
+After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look where your subgroup goes and add it there by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - inbetween ().
+Make sure there is the same amount of indents as for the other sub-groups.
 #### adding a Repo
 Find the right subgroup and lets say in this case you want to upload your pipeline. Look for "### pipelines", and see where your pipeline goes alphabetically. add 4 # before the name of your repo. Then enter the name of your repo between []followed by the URL inside (). 
 In the line below write a quick explanation with at least the following info, year when uploaded, who created the Fork. You can add more, but try to keep it as short as possible, since every repo should have a readme that explains itself. 
+After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look for your subgroup and add it below there (alphabetically) by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - inbetween ().
+Make sure there is the same amount of indents as for the other sub-groups.
 
 
 ## Index
 The index is devided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
-### pipelines
+### Pipelines
 #### [Pipeline_EEG_to_ERP_EEGlab_stats_R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
-### utilities
+### Utilities
 
 
 
