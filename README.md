@@ -27,6 +27,8 @@
   - [Pipelines](#pipelines)
     - [Pipeline_EEG_to_ERP_EEGlab_stats_R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Utilities](#utilities)
+    - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
+                                         
       
  
 
@@ -50,7 +52,7 @@ Make sure there is the same amount of indents as for the other sub-groups.
 Find the right subgroup and lets say in this case you want to upload your pipeline. Look for "### pipelines", and see where your pipeline goes alphabetically. add 4 # before the name of your repo. Then enter the name of your repo between []followed by the URL inside (). 
 In the line below write a quick explanation with at least the following info, year when uploaded, who created the Fork. You can add more, but try to keep it as short as possible, since every repo should have a readme that explains itself. 
 After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look for your subgroup and add it below there (alphabetically) by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - inbetween ().
-Make sure there is the same amount of indents as for the other sub-groups.
+Make sure there is the same amount of indents as for the other repos.
 
 
 ## Index
@@ -59,8 +61,8 @@ The index is devided in sub-groups. If your repo does not fall within a subgroup
 #### [Pipeline_EEG_to_ERP_EEGlab_stats_R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
 ### Utilities
-
-
+#### [Trial by trial data export eeglab](https://github.com/CognitiveNeuroLab/trial_by_trial_data_export_eeglab)
+2021 - Douwe Horsthuis - to export data from EEGlab to external programs keeping individual trials.
 
 ## License
 
