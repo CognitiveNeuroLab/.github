@@ -1,18 +1,3 @@
-# I just started updating this one, might take a while for it to be in shape. 
-
-# Index_overview_CNL
-
-This is an overview of all the repositories of the CNL
-If you add a repo, you need to add it to this list.
-
-**Preprocessing **
-
-Pipeline_EEG_to_ERP_EEGlab_stats_R - created by Douwe 2021, scalable for most EEG studies, using Matlab's EEGlab for pre-processing and plotting and R for stats and plotting
-
-**Experiments **
-
-Experiment_Cued_BOSS_Active_and_passive_inhibition - created by Douwe Horsthuis 2021, Active and passive go-no-go Presentation® NeuroBehavioral Systems' experiment (original for Ana Francisco's 22q and Schizophrenia project)
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -23,24 +8,13 @@ Experiment_Cued_BOSS_Active_and_passive_inhibition - created by Douwe Horsthuis 
 <br />
 <p align="center">
   <a href="https://github.com/CognitiveNeuroLab/Index_overview_CNL">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="image/logo.jpeg" alt="Logo" width="286" height="120">
   </a>
 
   <h3 align="center">Indexing CNL github</h3>
 
   <p align="center">
     Indexing for the CNL github
-    <br />
-    <a href="https://github.com/CognitiveNeuroLab/Index_overview_CNL"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/CognitiveNeuroLab/Index_overview_CNL">View Demo</a>
-    ·
-    <a href="https://github.com/CognitiveNeuroLab/Index_overview_CNL/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/CognitiveNeuroLab/Index_overview_CNL/issues">Request Feature</a>
-  </p>
-</p>
 
 
 
@@ -49,110 +23,81 @@ Experiment_Cued_BOSS_Active_and_passive_inhibition - created by Douwe Horsthuis 
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#how-to-keep-this-index-up-to-date">How to keep this index up-to-date</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Who-should-add-to-this-index">Who should add to this index</a></li>
+        <li><a href="#when-to-add-to-this-index">When to add to this index</a></li>
+        <li><a href="#how-to-add-to-this-index">How to add to this index</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#index">Index</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#index">Index</a></li>
+    <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
+**try somting new**
+
+<!-- TABLE OF CONTENTS -->
+**Table of Contents**
+  
+1. [How to keep this index up-to-date](#how-to-keep-this-index-up-to-date)
+  - [Who should add to this index](#who-should-add-to-this-index)
+  - [When to add to this index](#when-to-add-to-this-index)
+  - [How to add to this index](#how-to-add-to-this-index)  
+2. [Index](#index)
+  - [pipelines](#pipelines)
+    - [Pipeline_EEG_to_ERP_EEGlab_stats_R](#pipeline-eeg-to-erp-eeglab-stats-r)
+  - [utilities](#utilities)
+      
+ 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## How to keep this index up-to-date
+TO find all the code we put online, we need some sort of overview. We have this by looking at this index. However this index only works if we all keep it up-to-date together. Plus onces you make a change, you will be part of the contributors, so people can see that you worked on this. showing that we do this all together.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+### Who should add to this index
+Anyone that adds a repo to the CNL page. It doesn't matter if you created it, or if you only forked it. If you put it in the main CNL github, you need to add to this index. If you do not do this, it might get deleted after a while to prefent us loosing track of what is what.
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`CognitiveNeuroLab`, `Index_overview_CNL`, `CNL_Einstein`, `cnl@einsteinmed.org`, `Indexing CNL github`, `Indexing for the CNL github`
+### When to add to this index
+As soon as you add anything to the main CNL github.
+
+### How to add to this index
+#### Adding a new sub-group
+Let's say you are the first to create the subgroup "pipelines". You look below the line that says "## index" and look alphabetically where it goes. Since it's a subgroup, you put 2 # before the name + 1 space. 
+After that you need to add this also to the table of content. You do this by scrolling up to the table of content, 
+#### adding a Repo
+Find the right subgroup and lets say in this case you want to upload your pipeline. Look for "### pipelines", and see where your pipeline goes alphabetically. add 4 # before the name of your repo. Then enter the name of your repo between []followed by the URL inside (). 
+In the line below write a quick explanation with at least the following info, year when uploaded, who created the Fork. You can add more, but try to keep it as short as possible, since every repo should have a readme that explains itself. 
 
 
-### Built With
-
-* []()
-* []()
-* []()
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/CognitiveNeuroLab/Index_overview_CNL.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+## Index
+The index is devided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
+### pipelines
+#### [Pipeline_EEG_to_ERP_EEGlab_stats_R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
+2021 - Douwe Horsthuis - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
+### utilities
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/CognitiveNeuroLab/Index_overview_CNL/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
-
-<!-- CONTACT -->
 ## Contact
 
 Cognitive Neurophysiology Lab - [@CNL_Einstein](https://twitter.com/CNL_Einstein) - cnl@einsteinmed.org
