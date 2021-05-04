@@ -24,6 +24,8 @@
   - [When to add to this index](#when-to-add-to-this-index)
   - [How to add to this index](#how-to-add-to-this-index)  
 2. [Index](#index)
+  - [paradigms](#paradigms)
+    - [Cued Boss](#cued_boss)
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Utilities](#utilities)
@@ -57,6 +59,9 @@ Make sure there is the same amount of indents as for the other repos.
 
 ## Index
 The index is devided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
+### Paradigms
+#### [Cued boss](https://github.com/CognitiveNeuroLab/Experiment_Cued_BOSS_Active_and_passive_inhibition)
+2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
 ### Pipelines
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
