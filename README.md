@@ -25,7 +25,7 @@
   - [How to add to this index](#how-to-add-to-this-index)  
 2. [Index](#index)
   - [Pipelines](#pipelines)
-    - [Pipeline_EEG_to_ERP_EEGlab_stats_R](#pipeline-eeg-to-erp-eeglab-stats-r)
+    - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Utilities](#utilities)
     - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
                                          
