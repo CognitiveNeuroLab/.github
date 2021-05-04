@@ -25,7 +25,7 @@
   - [How to add to this index](#how-to-add-to-this-index)  
 2. [Index](#index)
   - [paradigms](#paradigms)
-    - [Cued Boss](#cued_boss)
+    - [Cued Boss - inhibition](#cued-boss)
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Utilities](#utilities)
