@@ -29,6 +29,7 @@
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Utilities](#utilities)
+    - [readme template](#readme-template)
     - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
                                          
       
@@ -72,6 +73,8 @@ The index is devided in sub-groups. If your repo does not fall within a subgroup
     - Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.
 
 ### Utilities
+#### [Readme Template](https://github.com/CognitiveNeuroLab/README-Template)
+2019 - (forked)othneildrew - HTML/Markdown - Readme template for Github
 #### [Trial by trial data export eeglab](https://github.com/CognitiveNeuroLab/trial_by_trial_data_export_eeglab)
 2021 - Douwe Horsthuis - Matlab - to export data from EEGlab to external programs keeping individual trials.
 
