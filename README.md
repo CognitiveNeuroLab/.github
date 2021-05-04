@@ -50,7 +50,7 @@ After that you need to add this also to the table of content. You do this by scr
 Make sure there is the same amount of indents as for the other sub-groups.
 #### adding a Repo
 Find the right subgroup and lets say in this case you want to upload your pipeline. Look for "### pipelines", and see where your pipeline goes alphabetically. add 4 # before the name of your repo. Then enter the name of your repo between []followed by the URL inside (). 
-In the line below write a quick explanation with at least the following info, year when uploaded, who created the Fork. You can add more, but try to keep it as short as possible, since every repo should have a readme that explains itself. 
+In the line below write a quick explanation with at least the following info, year when uploaded, who created the Fork, references if they exist. You can add more, but try to keep it as short as possible, since every repo should have a readme that explains itself. 
 After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look for your subgroup and add it below there (alphabetically) by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - inbetween ().
 Make sure there is the same amount of indents as for the other repos.
 
@@ -60,6 +60,15 @@ The index is devided in sub-groups. If your repo does not fall within a subgroup
 ### Pipelines
 #### [Pipeline_EEG_to_ERP_EEGlab_stats_R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
+
+Francisco, A. A., Foxe, J. J., Horsthuis, D. J., DeMaio, D., & Molholm, S. (2020). Assessing auditory processing endophenotypes associated with Schizophrenia in individuals with 22q11. 2 deletion syndrome. Translational psychiatry, 10(1), 1-11
+
+Francisco, A. A., Horsthuis, D. J., Popiel, M., Foxe, J. J., & Molholm, S. (2020). Atypical response inhibition and error processing in 22q11. 2 Deletion Syndrome and schizophrenia: Towards neuromarkers of disease progression and risk. NeuroImage: Clinical, 27, 102351.
+
+Francisco, A. A., Foxe, J. J., Horsthuis, D. J., & Molholm, S. (2020). Impaired auditory sensory memory in Cystinosis despite typical sensory processing: A high-density electrical mapping study of the mismatch negativity (MMN). NeuroImage: Clinical, 25, 102170.
+
+Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.
+
 ### Utilities
 #### [Trial by trial data export eeglab](https://github.com/CognitiveNeuroLab/trial_by_trial_data_export_eeglab)
 2021 - Douwe Horsthuis - to export data from EEGlab to external programs keeping individual trials.
