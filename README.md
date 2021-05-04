@@ -58,7 +58,7 @@ Make sure there is the same amount of indents as for the other repos.
 ## Index
 The index is devided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
 ### Pipelines
-#### [Pipeline_EEG_to_ERP_EEGlab_stats_R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
+#### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
 
     - Francisco, A. A., Foxe, J. J., Horsthuis, D. J., DeMaio, D., & Molholm, S. (2020). Assessing auditory processing endophenotypes associated with Schizophrenia in individuals with 22q11. 2 deletion syndrome. Translational psychiatry, 10(1), 1-11
