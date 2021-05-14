@@ -30,6 +30,8 @@
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Toolboxes](#toolboxes)
+    - [EEGlab](#eeglab)
+    - [Fieldtrip](#fieldtrip) 
   - [Utilities](#utilities)
     - [Using interpolation to go from 160 channel data to 64](#using-interpolation-to-go-from-160-channel-data-to-64)
     - [readme template](#readme-template)
