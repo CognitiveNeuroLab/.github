@@ -32,6 +32,7 @@
   - [Toolboxes](#toolboxes)
     - [EEGlab](#eeglab)
     - [Fieldtrip](#fieldtrip)
+    - [LIMO Tools](#limo-tools)
     - [mTRF-Toolbox](#mtrf-toolbox)
   - [Utilities](#utilities)
     - [Using interpolation to go from 160 channel data to 64](#using-interpolation-to-go-from-160-channel-data-to-64)
@@ -71,6 +72,7 @@ The index is devided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
+
 ### Pipelines
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
@@ -85,6 +87,8 @@ The index is devided in sub-groups. If your repo does not fall within a subgroup
 2021 - (forked) SCCN/UCSD - Matlab - EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD
 #### [Fieldtrip](https://github.com/CognitiveNeuroLab/fieldtrip)
 2021- (forked) Donders institute -Matlab - The MATLAB toolbox for MEG, EEG and iEEG analysis
+#### [LIMO tools](https://github.com/CognitiveNeuroLab/limo_tools)
+2019- (forked)  LIMO Team - Hierarchical Linear Modelling for MEEG data
 #### [mTRF-Toolbox](https://github.com/CognitiveNeuroLab/mTRF-Toolbox)
 2020- (forked) Mick cross - Matlab - A MATLAB Package for Relating Neural Signals to Continuous Stimuli
 
