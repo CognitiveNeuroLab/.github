@@ -26,9 +26,11 @@
 2. [Index](#index)
   - [paradigms](#paradigms)
     - [Cued Boss - inhibition](#cued-boss)
+    - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Utilities](#utilities)
+    - [Using interpolation to go from 160 channel data to 64](#using-interpolation-to-go-from-160-channel-data-to-64)
     - [readme template](#readme-template)
     - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
                                          
@@ -63,6 +65,8 @@ The index is devided in sub-groups. If your repo does not fall within a subgroup
 ### Paradigms
 #### [Cued boss](https://github.com/CognitiveNeuroLab/Experiment_Cued_BOSS_Active_and_passive_inhibition)
 2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
+#### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
+2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
 ### Pipelines
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
@@ -73,6 +77,8 @@ The index is devided in sub-groups. If your repo does not fall within a subgroup
     - Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.
 
 ### Utilities
+#### [Using interpolation to go from 160 channel data to 64](https://github.com/CognitiveNeuroLab/Interpolating_160ch_to_64ch_eeglab)
+2021 - Douwe Horsthuis - Matlab - function that transforms your 160 channel data into 64, leaving the landmark channels alone. 
 #### [Readme Template](https://github.com/CognitiveNeuroLab/README-Template)
 2019 - (forked)othneildrew - HTML/Markdown - Readme template for Github
 #### [Trial by trial data export eeglab](https://github.com/CognitiveNeuroLab/trial_by_trial_data_export_eeglab)
