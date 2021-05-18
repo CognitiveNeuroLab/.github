@@ -107,7 +107,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Cognitive Neurophysiology Lab - [@CNL_Einstein](https://twitter.com/CNL_Einstein) - cnl@einsteinmed.org
+Cognitive Neurophysiology Lab - [@CNL_Einstein](https://twitter.com/CNL_Einstein) - cnl@einsteinmed.org - cogneurolabrochester@gmail.com  
+https://www.cognitiveneurolab.com/
+https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx  
 
 
 
