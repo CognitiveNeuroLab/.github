@@ -45,28 +45,28 @@
 
 <!-- ABOUT THE PROJECT -->
 ## How to keep this index up-to-date
-TO find all the code we put online, we need some sort of overview. We have this by looking at this index. However this index only works if we all keep it up-to-date together. Plus onces you make a change, you will be part of the contributors, so people can see that you worked on this. showing that we do this all together.
+To find all the code we put online, we need some sort of overview. We have this by looking at this index. However this index only works if we all keep it up-to-date together. Plus once you make a change, you will be part of the contributors, so people can see that you worked on this. Showing that we do this all together.
 
 ### Who should add to this index
-Anyone that adds a repo to the CNL page. It doesn't matter if you created it, or if you only forked it. If you put it in the main CNL github, you need to add to this index. If you do not do this, it might get deleted after a while to prefent us loosing track of what is what.
+Anyone that adds a repo to the CNL page. It doesn't matter if you created it or if you only forked it. If you put it in the main CNL GitHub, you need to add to this index. If you do not do this, it might get deleted after a while to prevent us loosing track of what is what.
 
 ### When to add to this index
-As soon as you add anything to the main CNL github.
+As soon as you add anything to the main CNL GitHub.
 
 ### How to add to this index
 #### Adding a new sub-group
 Let's say you are the first to create the subgroup "pipelines". You look below the line that says "## index" and look alphabetically where it goes. Since it's a subgroup, you put 2 # before the name + 1 space. 
-After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look where your subgroup goes and add it there by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - inbetween ().
+After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look where your subgroup goes and add it there by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - in-between ().
 Make sure there is the same amount of indents as for the other sub-groups.
 #### adding a Repo
 Find the right subgroup and lets say in this case you want to upload your pipeline. Look for "### pipelines", and see where your pipeline goes alphabetically. add 4 # before the name of your repo. Then enter the name of your repo between []followed by the URL inside (). 
 In the line below write a quick explanation with at least the following info, year when uploaded, who created the Fork, what language you used, references if they exist. You can add more, but try to keep it as short as possible, since every repo should have a readme that explains itself. 
-After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look for your subgroup and add it below there (alphabetically) by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - inbetween ().
+After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look for your subgroup and add it below there (alphabetically) by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - in-between ().
 Make sure there is the same amount of indents as for the other repos.
 
 
 ## Index
-The index is devided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
+The index is divided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
 ### Paradigms
 #### [Cued boss](https://github.com/CognitiveNeuroLab/Experiment_Cued_BOSS_Active_and_passive_inhibition)
 2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
@@ -123,5 +123,3 @@ https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx
 [issues-url]: https://github.com/CognitiveNeuroLab/repo/issues
 [license-shield]: https://img.shields.io/github/license/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
 [license-url]: https://github.com/CognitiveNeuroLab/repo/blob/master/LICENSE.txt
-
-
