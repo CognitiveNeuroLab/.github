@@ -68,7 +68,7 @@ In the line below write a quick explanation with at least the following info, ye
 After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look for your subgroup and add it below there (alphabetically) by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - in-between ().
 Make sure there is the same amount of indents as for the other repos.
 #### combining the new and the original branch
-After saving all the changes you made in the new branch. Click on the "pull requests button". Click the green "New pull request" button. You should have the 
+After saving all the changes you made in the new branch. Click on the "pull requests button". Click the green "New pull request" button. Make sure you are comparing the right branches with each other. This means the "main" branch should be the first box and whatever you called yours should be in the one on the right. After that you hit "create pull request" two times. If correct you can now choose "merge pull request". After this you should delete your old branch.
 
 ## Index
 The index is divided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
