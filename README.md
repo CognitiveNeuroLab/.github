@@ -54,6 +54,10 @@ Anyone that adds a repo to the CNL page. It doesn't matter if you created it or 
 As soon as you add anything to the main CNL GitHub.
 
 ### How to add to this index
+#### create a new Repo branch
+create a new branch by clicking on the "main button" and typing a name for your new branch and clicking the create branch option. 
+![opening a new branch](https://github.com/CognitiveNeuroLab/Index_overview_CNL/blob/main/image/new%20branch.PNG "new branch")
+
 #### Adding a new sub-group
 Let's say you are the first to create the subgroup "pipelines". You look below the line that says "## index" and look alphabetically where it goes. Since it's a subgroup, you put 2 # before the name + 1 space. 
 After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look where your subgroup goes and add it there by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - in-between ().
@@ -63,7 +67,8 @@ Find the right subgroup and lets say in this case you want to upload your pipeli
 In the line below write a quick explanation with at least the following info, year when uploaded, who created the Fork, what language you used, references if they exist. You can add more, but try to keep it as short as possible, since every repo should have a readme that explains itself. 
 After that you need to add this also to the table of content. You do this by scrolling up to the table of content, look for your subgroup and add it below there (alphabetically) by writing the title as is in between [] directly followed by the title without capitals and spaces/underscores replaced by - in-between ().
 Make sure there is the same amount of indents as for the other repos.
-
+#### combining the new and the original branch
+After saving all the changes you made in the new branch. Click on the "pull requests button". Click the green "New pull request" button. You should have the 
 
 ## Index
 The index is divided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
