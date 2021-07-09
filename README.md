@@ -127,12 +127,12 @@ https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[contributors-url]: https://github.com/CognitiveNeuroLab/repo/graphs/contributors
+[contributors-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[forks-url]: https://github.com/CognitiveNeuroLab/repo/network/members
+[forks-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/network/members
 [stars-shield]: https://img.shields.io/github/stars/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[stars-url]: https://github.com/CognitiveNeuroLab/repo/stargazers
+[stars-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/stargazers
 [issues-shield]: https://img.shields.io/github/issues/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[issues-url]: https://github.com/CognitiveNeuroLab/repo/issues
+[issues-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/issues
 [license-shield]: https://img.shields.io/github/license/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[license-url]: https://github.com/CognitiveNeuroLab/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/blob/master/LICENSE.txt
