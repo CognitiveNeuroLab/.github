@@ -16,7 +16,7 @@
     Indexing for the CNL github
 
 <!-- TABLE OF CONTENTS -->
-**Table of Contents**
+**Table of Contents **
   
 1. [How to keep this index up-to-date](#how-to-keep-this-index-up-to-date)
     - [Who should add to this index](#who-should-add-to-this-index)
