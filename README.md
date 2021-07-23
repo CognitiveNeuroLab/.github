@@ -31,6 +31,7 @@
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
   - [Statistics](#statistics)
     - [FDR (false discovery rate)](#fdr-false-discovery-rate)
+    - [Mixed effect models](#mixed-effect-models)
   - [Toolboxes](#toolboxes)
     - [EEGlab](#eeglab)
     - [Fieldtrip](#fieldtrip)
@@ -92,7 +93,9 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 
 ### Statistics
 #### [FDR (false discovery rate)](https://github.com/Shlomit-Beker/FDR)
-2021- Shlomit Beker - Matlab - FDR (false discovery rate) 
+2021- Shlomit Beker - Matlab - FDR (false discovery rate)  
+#### [Mixed effect models](https://github.com/anafrancisco/Mixed-effect-models)
+2021- Ana Francisco - R - Mixed effect models - Single trial data. 
 
 
 ### Toolboxes
