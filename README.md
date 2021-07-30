@@ -81,7 +81,7 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 #### [Flanker task](https://github.com/CognitiveNeuroLab/Flanker_task_experiment)
 2021 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's cystinosis project (2021)
 #### [Oddball experiments](https://github.com/CognitiveNeuroLab/Oddball_experiments)
-2021 - Douwe Horsthuis - Presentation Paradigm - Visual Oddball - created and used for Ana Francisco's cystinosis project (2021)
+2021 - Douwe Horsthuis - Presentation Paradigm - Visual Oddball - created and used for Ana Francisco's cystinosis project (2021)  
 2021 - Luke Shaw update Douwe Horsthuis - presentation Paradigm - Oddball duration tone - created and used for Ana Francisco's cystinosis project (2021)
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
