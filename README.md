@@ -30,6 +30,7 @@
     - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
+    - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
   - [Statistics](#statistics)
     - [FDR (false discovery rate)](#fdr-false-discovery-rate)
     - [Mixed effect models](#mixed-effect-models)
@@ -93,7 +94,9 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
     - Francisco, A. A., Foxe, J. J., Horsthuis, D. J., DeMaio, D., & Molholm, S. (2020). Assessing auditory processing endophenotypes associated with Schizophrenia in individuals with 22q11. 2 deletion syndrome. Translational psychiatry, 10(1), 1-11
     - Francisco, A. A., Horsthuis, D. J., Popiel, M., Foxe, J. J., & Molholm, S. (2020). Atypical response inhibition and error processing in 22q11. 2 Deletion Syndrome and schizophrenia: Towards neuromarkers of disease progression and risk. NeuroImage: Clinical, 27, 102351.
     - Francisco, A. A., Foxe, J. J., Horsthuis, D. J., & Molholm, S. (2020). Impaired auditory sensory memory in Cystinosis despite typical sensory processing: A high-density electrical mapping study of the mismatch negativity (MMN). NeuroImage: Clinical, 25, 102170.
-    - Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.
+    - Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.  
+#### [Speech-in-noise pipeline](https://github.com/CognitiveNeuroLab/Speech-in-noise-pipeline)
+2021 - General lab effort - Matlab SPSS - Pipeline to pre-process SiN data
 
 ### Statistics
 #### [FDR (false discovery rate)](https://github.com/Shlomit-Beker/FDR)
