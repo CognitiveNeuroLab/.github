@@ -40,6 +40,7 @@
     - [LIMO Tools](#limo-tools)
     - [mTRF-Toolbox](#mtrf-toolbox)
   - [Utilities](#utilities)
+    - [Adding Eyelink to a Presentation® Experiment](#adding-eyelink-to-a-presentation-experiment)
     - [Using interpolation to go from 160 channel data to 64](#using-interpolation-to-go-from-160-channel-data-to-64)
     - [readme template](#readme-template)
     - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
@@ -117,6 +118,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020- (forked) Mick cross - Matlab - A MATLAB Package for Relating Neural Signals to Continuous Stimuli
 
 ### Utilities
+#### [Adding Eyelink to a Presentation® Experiment](https://github.com/CognitiveNeuroLab/Adding-Eyelink-to-experiment)
+2021 - Douwe Horsthuis - Presentation - Presentation code that is needed to add eyetracking to your paradigm, double checked by the people from [SR-research](https://www.sr-research.com/). 
 #### [Using interpolation to go from 160 channel data to 64](https://github.com/CognitiveNeuroLab/Interpolating_160ch_to_64ch_eeglab)
 2021 - Douwe Horsthuis - Matlab - function that transforms your 160 channel data into 64, leaving the landmark channels alone. 
 #### [Readme Template](https://github.com/CognitiveNeuroLab/README-Template)
