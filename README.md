@@ -26,6 +26,7 @@
   - [paradigms](#paradigms)
     - [Cued Boss - inhibition](#cued-boss)
     - [Flanker task](#flanker-task)
+    - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
     - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
@@ -82,6 +83,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
 #### [Flanker task](https://github.com/CognitiveNeuroLab/Flanker_task_experiment)
 2021 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's cystinosis project (2021)
+#### [N-Back task](https://github.com/CognitiveNeuroLab/N-back-task-experiment)
+2021 - Douwe Horsthuis - Presentation Paradigm - Created and used for Ana Francisco's Cystinosis Project (2021)
 #### [Oddball experiments](https://github.com/CognitiveNeuroLab/Oddball_experiments)
 2021 - Douwe Horsthuis - Presentation Paradigm - Visual Oddball - created and used for Ana Francisco's cystinosis project (2021)  
 2021 - Luke Shaw - presentation Paradigm - Oddball duration tone - created and used for several lab studies - updated with extra soas by Douwe  
