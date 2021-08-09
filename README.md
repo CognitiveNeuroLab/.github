@@ -24,6 +24,7 @@
     - [How to add to this index](#how-to-add-to-this-index)  
 2. [Index](#index)
   - [paradigms](#paradigms)
+    - [ASSR](#assr)
     - [Cued Boss - inhibition](#cued-boss)
     - [Flanker task](#flanker-task)
     - [N-Back task](#n-back-task)
@@ -78,7 +79,9 @@ After saving all the changes you made in the new branch. Click on the "pull requ
 
 ## Index
 The index is divided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
-### Paradigms
+### Paradigms  
+#### [ASSR](https://github.com/CognitiveNeuroLab/ASSR)
+2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project  
 #### [Cued boss](https://github.com/CognitiveNeuroLab/Experiment_Cued_BOSS_Active_and_passive_inhibition)
 2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
 #### [Flanker task](https://github.com/CognitiveNeuroLab/Flanker_task_experiment)
