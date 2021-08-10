@@ -36,6 +36,7 @@
   - [Statistics](#statistics)
     - [FDR (false discovery rate)](#fdr-false-discovery-rate)
     - [Mixed effect models](#mixed-effect-models)
+    - [Rett Standard ITPC](#rett-standard-itpc)
   - [Toolboxes](#toolboxes)
     - [EEGlab](#eeglab)
     - [Fieldtrip](#fieldtrip)
@@ -111,7 +112,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2021- Shlomit Beker - Matlab - FDR (false discovery rate)  
 #### [Mixed effect models](https://github.com/anafrancisco/Mixed-effect-models)
 2021- Ana Francisco - R - Mixed effect models - Single trial data. 
-
+#### [Rett Standard ITPC](https://github.com/Shlomit-Beker/Rett_standard_ITPC)
+2021- Shlomit Beker - Matlab - Rett Standard ITPC
 
 ### Toolboxes
 #### [EEGlab](https://github.com/CognitiveNeuroLab/eeglab)
