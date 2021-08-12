@@ -90,7 +90,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 #### [N-Back task](https://github.com/CognitiveNeuroLab/N-back-task-experiment)
 2021 - Douwe Horsthuis - Presentation Paradigm - Created and used for Ana Francisco's Cystinosis Project (2021)
 #### [Oddball experiments](https://github.com/CognitiveNeuroLab/Oddball_experiments)
-2021 - Douwe Horsthuis - Presentation Paradigm - Visual Oddball - created and used for Ana Francisco's cystinosis project (2021)  
+2021 - Douwe Horsthuis - Presentation Paradigm - visual Duration discimination - created and used for Ana Francisco's cystinosis project  (2021)
+2021 - Douwe Horsthuis - Presentation Paradigm - Visual Oddball - created but not used for Ana Francisco's cystinosis project (2021)  
 2021 - Luke Shaw - presentation Paradigm - Oddball duration tone - created and used for several lab studies - updated with extra soas by Douwe  
 2020 - Douwe Horsthuis - Presentation Paradigm - Duration discimination - created and used for Ana Francisco's 22q/schizophirenia cystinosis project  (2021)   
 2020 - Douwe Horsthuis - Presentation Paradigm - Omission - created and used for Ana Francisco's 22q/schizophirenia project  (2020)     
