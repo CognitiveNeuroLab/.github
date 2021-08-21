@@ -104,7 +104,7 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 
 ### Pipelines
 #### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
-2021 - Shlomit Beker - Matlab -- Anticipatory analysis of data from ASD children (aka VAMP)
+  2021 - Shlomit Beker - Matlab -- Anticipatory analysis of data from ASD children (aka VAMP)
   
     - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
