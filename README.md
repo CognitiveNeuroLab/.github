@@ -30,11 +30,11 @@
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
     - [Visual working memory task](#visual-working-memory-task)
-    - [Test-retest](#test-retest)
-    - [Anticipatory activity in ASD](#anticipatory-ASD)
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
     - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
+    - [Test-retest](#test-retest)
+    - [Anticipatory activity in ASD](#anticipatory-ASD)
   - [Statistics](#statistics)
     - [FDR (false discovery rate)](#fdr-false-discovery-rate)
     - [Mixed effect models](#mixed-effect-models)
@@ -107,7 +107,7 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
       - Beker, S. Foxe, J.J., Venticinque, J. et al., Journal of Neurodevelopmental Disorders (2021)  
   
 #### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
-2021 - Shlomit Beker - Matlab - Anticipatory-ASD
+2021 - Shlomit Beker - Matlab - anticipatory-ASD
   
       - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
 
