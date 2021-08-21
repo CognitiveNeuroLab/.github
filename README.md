@@ -30,6 +30,7 @@
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
     - [Visual working memory task](#visual-working-memory-task)
+    - [Test-retest](#test-retest-analysis)
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
     - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
@@ -80,6 +81,7 @@ After saving all the changes you made in the new branch. Click on the "pull requ
 
 ## Index
 The index is divided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
+
 ### Paradigms  
 #### [ASSR](https://github.com/CognitiveNeuroLab/ASSR)
 2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project  
@@ -98,6 +100,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophirenia (2021)  
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
+#### [Test-retest](https://github.com/Shlomit-Beker/Test-retest)
+2021 - Shlomit Beker - Test-retest analysis - for Beker et al., Journal of Neurodevelopmental Disorders (2021)  
 
 ### Pipelines
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
