@@ -103,6 +103,11 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
 
 ### Pipelines
+  
+#### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
+2021 - Shlomit Beker - Matlab - Anticipatory ASD
+  
+      - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
 
@@ -116,11 +121,7 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2021 - Shlomit Beker - Matlab - Test-retest 
   
       - Beker, S. Foxe, J.J., Venticinque, J. et al., Journal of Neurodevelopmental Disorders (2021)  
-  
-#### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
-2021 - Shlomit Beker - Matlab - Anticipatory ASD
-  
-      - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
+ 
 
 ### Statistics
 #### [FDR (false discovery rate)](https://github.com/Shlomit-Beker/FDR)
