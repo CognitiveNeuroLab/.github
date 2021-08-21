@@ -23,7 +23,7 @@
     - [When to add to this index](#when-to-add-to-this-index)
     - [How to add to this index](#how-to-add-to-this-index)  
 2. [Index](#index)
-  - [paradigms](#paradigms)
+  - [Paradigms](#paradigms)
     - [ASSR](#assr)
     - [Cued Boss - inhibition](#cued-boss)
     - [Flanker task](#flanker-task)
@@ -105,6 +105,7 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2021 - Shlomit Beker - Matlab - Test-retest 
   
       - Beker, S. Foxe, J.J., Venticinque, J. et al., Journal of Neurodevelopmental Disorders (2021)  
+  
 #### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
 2021 - Shlomit Beker - Matlab - Anticipatory-ASD
   
