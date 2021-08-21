@@ -30,7 +30,7 @@
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
     - [Visual working memory task](#visual-working-memory-task)
-    - [Test-retest](#test-retest-analysis)
+    - [Test-retest](#test-retest)
   - [Pipelines](#pipelines)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
     - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
@@ -101,7 +101,7 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
 #### [Test-retest](https://github.com/Shlomit-Beker/Test-retest)
-2021 - Shlomit Beker - Matlab - Test-retest analysis 
+2021 - Shlomit Beker - Matlab - Test-retest 
       - Beker, S. Foxe, J. Venticinque, J. et al., Journal of Neurodevelopmental Disorders (2021)  
 
 ### Pipelines
