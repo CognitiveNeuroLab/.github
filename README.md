@@ -101,15 +101,6 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophirenia (2021)  
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
-#### [Test-retest](https://github.com/Shlomit-Beker/Test-retest)
-2021 - Shlomit Beker - Matlab - Test-retest 
-  
-      - Beker, S. Foxe, J.J., Venticinque, J. et al., Journal of Neurodevelopmental Disorders (2021)  
-  
-#### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
-2021 - Shlomit Beker - Matlab - anticipatory-ASD
-  
-      - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
 
 ### Pipelines
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
@@ -121,6 +112,15 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
     - Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.  
 #### [Speech-in-noise pipeline](https://github.com/CognitiveNeuroLab/Speech-in-noise-pipeline)
 2021 - General lab effort - Matlab SPSS - Pipeline to pre-process SiN data
+#### [Test-retest](https://github.com/Shlomit-Beker/Test-retest)
+2021 - Shlomit Beker - Matlab - Test-retest 
+  
+      - Beker, S. Foxe, J.J., Venticinque, J. et al., Journal of Neurodevelopmental Disorders (2021)  
+  
+#### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
+2021 - Shlomit Beker - Matlab - anticipatory-ASD
+  
+      - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
 
 ### Statistics
 #### [FDR (false discovery rate)](https://github.com/Shlomit-Beker/FDR)
