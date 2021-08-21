@@ -31,7 +31,7 @@
     - [Oddball experiments](#oddball-experiments)
     - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
-    - [Anticipatory activity in ASD](#anticipatory-ASD)
+    - [Anticipatory activity in ASD](#anticipatory-activity-in-ASD)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
     - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
     - [Test-retest](#test-retest)
