@@ -33,7 +33,7 @@
   - [Pipelines](#pipelines)
     - [Anticipatory activity in ASD](#anticipatory-activity-in-ASD)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
-    - [Resting state Pipeline- Pre-process/Microstates/PowerFrequency](#resting-state-pipeline-pre--processmicrostatespowerfrequency)
+    - [Resting state Pipeline- Pre-process/Microstates/PowerFrequency](#resting-state-pipeline--pre-processmicrostatespowerfrequency)
     - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
     - [Test-retest](#test-retest)
   - [Statistics](#statistics)
