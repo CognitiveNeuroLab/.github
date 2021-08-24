@@ -33,6 +33,7 @@
   - [Pipelines](#pipelines)
     - [Anticipatory activity in ASD](#anticipatory-activity-in-ASD)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
+    - [Resting state - Pre-process/Microstates/PowerFrequency](#resting-state-pre-process-microstates-powerFrequency)
     - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
     - [Test-retest](#test-retest)
   - [Statistics](#statistics)
@@ -114,6 +115,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
     - Francisco, A. A., Horsthuis, D. J., Popiel, M., Foxe, J. J., & Molholm, S. (2020). Atypical response inhibition and error processing in 22q11. 2 Deletion Syndrome and schizophrenia: Towards neuromarkers of disease progression and risk. NeuroImage: Clinical, 27, 102351.
     - Francisco, A. A., Foxe, J. J., Horsthuis, D. J., & Molholm, S. (2020). Impaired auditory sensory memory in Cystinosis despite typical sensory processing: A high-density electrical mapping study of the mismatch negativity (MMN). NeuroImage: Clinical, 25, 102170.
     - Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.  
+#### [Resting state - Pre-process/Microstates/PowerFrequency](https://github.com/CognitiveNeuroLab/resting-state-analysis-pipeline-microstates-frequency)  
+2021 - Ana Francisco, Douwe Horsthuis, Filip De Sanctis - Matlab - Pipeline to analyse Resting state data using EEGlab, looking at microstates and power/frequency
 #### [Speech-in-noise pipeline](https://github.com/CognitiveNeuroLab/Speech-in-noise-pipeline)
 2021 - General lab effort - Matlab SPSS - Pipeline to pre-process SiN data
 #### [Test-retest](https://github.com/Shlomit-Beker/Test-retest)
