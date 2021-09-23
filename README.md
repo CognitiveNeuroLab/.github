@@ -47,9 +47,10 @@
     - [mTRF-Toolbox](#mtrf-toolbox)
   - [Utilities](#utilities)
     - [Adding Eyelink to a Presentation® Experiment](#adding-eyelink-to-a-presentation-experiment)
-    - [Using interpolation to go from 160 channel data to 64](#using-interpolation-to-go-from-160-channel-data-to-64)
+    - [Practicing deleting components after ICA](#practicing-deleting-components-after-ica)
     - [readme template](#readme-template)
     - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
+    - [Using interpolation to go from 160 channel data to 64](#using-interpolation-to-go-from-160-channel-data-to-64)
                                          
       
 
@@ -94,12 +95,12 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 #### [N-Back task](https://github.com/CognitiveNeuroLab/N-back-task-experiment)
 2021 - Douwe Horsthuis - Presentation Paradigm - Created and used for Ana Francisco's Cystinosis Project (2021)
 #### [Oddball experiments](https://github.com/CognitiveNeuroLab/Oddball_experiments)
-2021 - Douwe Horsthuis - Presentation Paradigm - visual Duration discimination - created and used for Ana Francisco's cystinosis project  (2021)  
+2021 - Douwe Horsthuis - Presentation Paradigm - visual Duration discrimination - created and used for Ana Francisco's cystinosis project  (2021)  
 2021 - Douwe Horsthuis - Presentation Paradigm - Visual Oddball - created but not used for Ana Francisco's cystinosis project (2021)  
 2021 - Luke Shaw - presentation Paradigm - Oddball duration tone - created and used for several lab studies - updated with extra soas by Douwe  
-2020 - Douwe Horsthuis - Presentation Paradigm - Duration discimination - created and used for Ana Francisco's 22q/schizophirenia cystinosis project  (2021)   
-2020 - Douwe Horsthuis - Presentation Paradigm - Omission - created and used for Ana Francisco's 22q/schizophirenia project  (2020)     
-2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophirenia (2021)  
+2020 - Douwe Horsthuis - Presentation Paradigm - Duration discrimination - created and used for Ana Francisco's 22q/schizophrenia cystinosis project  (2021)   
+2020 - Douwe Horsthuis - Presentation Paradigm - Omission - created and used for Ana Francisco's 22q/schizophrenia project  (2020)     
+2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophrenia (2021)  
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
 
@@ -109,7 +110,7 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
   
     - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
-2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in Rstudio
+2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in R studio
 
     - Francisco, A. A., Foxe, J. J., Horsthuis, D. J., DeMaio, D., & Molholm, S. (2020). Assessing auditory processing endophenotypes associated with Schizophrenia in individuals with 22q11. 2 deletion syndrome. Translational psychiatry, 10(1), 1-11
     - Francisco, A. A., Horsthuis, D. J., Popiel, M., Foxe, J. J., & Molholm, S. (2020). Atypical response inhibition and error processing in 22q11. 2 Deletion Syndrome and schizophrenia: Towards neuromarkers of disease progression and risk. NeuroImage: Clinical, 27, 102351.
@@ -145,7 +146,9 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 
 ### Utilities
 #### [Adding Eyelink to a Presentation® Experiment](https://github.com/CognitiveNeuroLab/Adding-Eyelink-to-experiment)
-2021 - Douwe Horsthuis - Presentation - Presentation code that is needed to add eyetracking to your paradigm, double checked by the people from [SR-research](https://www.sr-research.com/). 
+2021 - Douwe Horsthuis - Presentation - Presentation code that is needed to add eye tracking to your paradigm, double checked by the people from [SR-research](https://www.sr-research.com/). 
+#### [Practicing deleting components after ICA](https://github.com/CognitiveNeuroLab/ICA_Practice)
+2021 - Ana Francisco, Douwe Horsthuis, Filip De Sanctis, Sophie Molholm and Seyda Tikir - Matlab - A script for practicing what components to delete after doing ICA using EEGlab and its IClabel toolbox to verify.
 #### [Using interpolation to go from 160 channel data to 64](https://github.com/CognitiveNeuroLab/Interpolating_160ch_to_64ch_eeglab)
 2021 - Douwe Horsthuis - Matlab - function that transforms your 160 channel data into 64, leaving the landmark channels alone. 
 #### [Readme Template](https://github.com/CognitiveNeuroLab/README-Template)
