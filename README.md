@@ -29,6 +29,7 @@
     - [Flanker task](#flanker-task)
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
+    - [Swat](#swat)
     - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
     - [Anticipatory activity in ASD](#anticipatory-activity-in-ASD)
@@ -101,6 +102,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation Paradigm - Duration discrimination - created and used for Ana Francisco's 22q/schizophrenia cystinosis project  (2021)   
 2020 - Douwe Horsthuis - Presentation Paradigm - Omission - created and used for Ana Francisco's 22q/schizophrenia project  (2020)     
 2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophrenia (2021)  
+#### [swat](https://github.com/CognitiveNeuroLab/swat-experiment)  
+2021 - Douwe Horsthuis - Presentation Paradigm - updated the swat_kids paradigm (2021)  
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
 
