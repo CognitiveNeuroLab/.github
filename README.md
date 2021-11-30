@@ -103,7 +103,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation Paradigm - Omission - created and used for Ana Francisco's 22q/schizophrenia project  (2020)     
 2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophrenia (2021)  
 #### [swat](https://github.com/CognitiveNeuroLab/swat-experiment)  
-2021 - Douwe Horsthuis - Presentation Paradigm - updated the swat_kids paradigm (2021)  
+2021 - Douwe Horsthuis - Presentation Paradigm - updated the swat_kids paradigm (2021) 
+original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/article/pii/S1053811903005044)
 #### [Visual working memory task](https://github.com/CognitiveNeuroLab/Visual_working_memory_experiment)
 2021- Douwe Horsthuis - Presentation paradigm - created for Ana Francisco's Cystinosis project (2021)
 
