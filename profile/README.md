@@ -1,11 +1,16 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]  
+
 <br />
 <p align="center">
   <a href="https://github.com/CognitiveNeuroLab/.github/blob/main/">
-    <img src="image/logo.jpeg" alt="Logo" width="120" height="120">
+    <img src="image/logo.jpg" alt="Logo" width="120" height="120">
   </a> 
 
-<h2 align="center"> The Cogntive Neurophysiology Laboratory</h2> 
-<h3 align="center"> The CNL is comprised of a multidisciplinary team of investigators, post-doctoral fellows, and students using psychophysics, EEG, and MRI to study attention, auditory and visual perception, multisensory processing, and executive function. It is our goal to make significant advances in understanding these processes with the use of cutting edge methodologies and data analytic techniques. In turn, we seek to apply this understanding to explore the processing deficits underlying clinical and developmental disorders such as autism, schizophrenia, and different genetic rare diseases.</h3> 
+<h2 align="center"> The Cogntive Neurophysiology Laboratory</h2>
+<h3 align="center"> The CNL is comprised of a multidisciplinary team of investigators, post-doctoral fellows, and students using psychophysics, EEG, and MRI to study attention, auditory and visual perception, multisensory processing, and executive function. It is our goal to make significant advances in understanding these processes with the use of cutting edge methodologies and data analytic techniques. In turn, we seek to apply this understanding to explore the processing deficits underlying clinical and developmental disorders such as autism, schizophrenia, and different genetic rare diseases. For more info check our labs websites. </h3> 
+[Bronx location](https://www.cognitiveneurolab.com/) and our [Rochester Location](https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx)
   
 **Table of Contents **
   
@@ -161,3 +166,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Cognitive Neurophysiology Lab - [@CNL_Einstein](https://twitter.com/CNL_Einstein) - cnl@einsteinmed.org - cogneurolabrochester@gmail.com  
 https://www.cognitiveneurolab.com/
 https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx  
+
+[contributors-shield]: https://img.shields.io/github/contributors/CognitiveNeuroLab/.github.svg?style=for-the-badge
+[contributors-url]: https://github.com/CognitiveNeuroLab/.github/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/CognitiveNeuroLab/.github.svg?style=for-the-badge
+[issues-url]: https://github.com/CognitiveNeuroLab/.github/issues
+[license-shield]: https://img.shields.io/github/license/CognitiveNeuroLab/.github.svg?style=for-the-badge
+[license-url]: https://github.com/CognitiveNeuroLab/.github/blob/master/LICENSE.txt
