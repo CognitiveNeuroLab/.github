@@ -9,8 +9,10 @@
   </a> 
 
 <h2 align="center"> The Cogntive Neurophysiology Laboratory</h2>
+<<<<<<< HEAD
 <h3 align="center"> The CNL is comprised of a multidisciplinary team of investigators, post-doctoral fellows, and students using psychophysics, EEG, and MRI to study attention, auditory and visual perception, multisensory processing, and executive function. It is our goal to make significant advances in understanding these processes with the use of cutting edge methodologies and data analytic techniques. In turn, we seek to apply this understanding to explore the processing deficits underlying clinical and developmental disorders such as autism, schizophrenia, and different genetic rare diseases. For more info check our labs websites. </h3> 
 [Bronx location](https://www.cognitiveneurolab.com/) and our [Rochester Location](https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx)
+
   
 **Table of Contents **
   
