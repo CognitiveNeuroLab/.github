@@ -112,7 +112,7 @@ original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/arti
   2021 - Shlomit Beker - Matlab - Anticipatory analysis of data from ASD children (aka VAMP)
   
     - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
-#### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
+#### [Pipeline EEG to ERP EEGlab stats R](https://github.com/CognitiveNeuroLab/Pipeline_EEG_to_ERP_EEGlab_stats_R)
 2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in R studio
 
     - Francisco, A. A., Foxe, J. J., Horsthuis, D. J., DeMaio, D., & Molholm, S. (2020). Assessing auditory processing endophenotypes associated with Schizophrenia in individuals with 22q11. 2 deletion syndrome. Translational psychiatry, 10(1), 1-11
