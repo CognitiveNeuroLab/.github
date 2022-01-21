@@ -15,7 +15,7 @@
   <p align="center">
     Indexing for the CNL github
 
-<!-- TABLE OF CONTENTS -->
+
 **Table of Contents **
   
 1. [How to keep this index up-to-date](#how-to-keep-this-index-up-to-date)
