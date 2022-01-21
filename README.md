@@ -25,10 +25,14 @@
 2. [Index](#index)
   - [Paradigms](#paradigms)
     - [ASSR](#assr)
+    - [ASSR oddball](#assr-oddball)
+    - [Beep-flash sfari](#beep-flash-sfari)
     - [Cued Boss - inhibition](#cued-boss)
+    - [F.A.S.T. Response task](#f.a.s.t.-response-task)
     - [Flanker task](#flanker-task)
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
+    - [Restingstate with Eyetracking](#restingstate-with-eyetracking)
     - [Swat](#swat)
     - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
@@ -88,9 +92,15 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 
 ### Paradigms  
 #### [ASSR](https://github.com/CognitiveNeuroLab/ASSR)
-2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project  
+2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project
+#### [ASSR Oddball](https://github.com/CognitiveNeuroLab/ASSR-oddball)
+2022 - Douwe Horsthuis - presentation paradigm - created and used for SFARI project (2021)
+#### [Beep-Flash SFARI](https://github.com/CognitiveNeuroLab/beep-flash-sfari)
+2014 - Lab Paradigm - Presentation paradigm - Adaptation of Beep-flash-kids (2014) Used orignally for [Murphy paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aur.1374)  
 #### [Cued boss](https://github.com/CognitiveNeuroLab/Experiment_Cued_BOSS_Active_and_passive_inhibition)
-2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
+2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.  
+#### [F.A.S.T. Response task](https://github.com/CognitiveNeuroLab/F.A.S.T.-response-experiment)
+2022 - Douwe Horsthuis - Presentation Paradigm - created and used for SFARI project (2021)
 #### [Flanker task](https://github.com/CognitiveNeuroLab/Flanker_task_experiment)
 2021 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's cystinosis project (2021)
 #### [N-Back task](https://github.com/CognitiveNeuroLab/N-back-task-experiment)
@@ -102,6 +112,8 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation Paradigm - Duration discrimination - created and used for Ana Francisco's 22q/schizophrenia cystinosis project  (2021)   
 2020 - Douwe Horsthuis - Presentation Paradigm - Omission - created and used for Ana Francisco's 22q/schizophrenia project  (2020)     
 2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophrenia (2021)  
+#### [Restingstate with eyetracking](https://github.com/CognitiveNeuroLab/restingstate-with-eyetracking)
+2022 - Douwe Horsthuis - Presentation Paradigm - Simple restingstate paradigm with eyetracking for SFARI project (2021)
 #### [swat](https://github.com/CognitiveNeuroLab/swat-experiment)  
 2021 - Douwe Horsthuis - Presentation Paradigm - updated the swat_kids paradigm (2021) 
 original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/article/pii/S1053811903005044)
