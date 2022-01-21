@@ -1,21 +1,20 @@
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license-url]  
 
 <br />
 <p align="center">
-  <a href="https://github.com/CognitiveNeuroLab/Index_overview_CNL">
-    <img src="image/logo.jpeg" alt="Logo" width="286" height="120">
-  </a>
+  <a href="https://github.com/CognitiveNeuroLab/.github/blob/main/">
+    <img src="image/logo.jpg" alt="Logo" width="120" height="120">
+  </a> 
 
-  <h3 align="center">Indexing CNL github</h3>
+<h2 align="center"> The Cogntive Neurophysiology Laboratory</h2>
 
-  <p align="center">
-    Indexing for the CNL github
+<h3 align="center"> The CNL is comprised of a multidisciplinary team of investigators, post-doctoral fellows, and students using psychophysics, EEG, and MRI to study attention, auditory and visual perception, multisensory processing, and executive function. It is our goal to make significant advances in understanding these processes with the use of cutting edge methodologies and data analytic techniques. In turn, we seek to apply this understanding to explore the processing deficits underlying clinical and developmental disorders such as autism, schizophrenia, and different genetic rare diseases. For more info check our labs websites. </h3>  
 
-<!-- TABLE OF CONTENTS -->
+## The websites of our [Bronx location](https://www.cognitiveneurolab.com/) and our [Rochester location](https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx)
+
+  
 **Table of Contents **
   
 1. [How to keep this index up-to-date](#how-to-keep-this-index-up-to-date)
@@ -25,14 +24,10 @@
 2. [Index](#index)
   - [Paradigms](#paradigms)
     - [ASSR](#assr)
-    - [ASSR oddball](#assr-oddball)
-    - [Beep-flash sfari](#beep-flash-sfari)
     - [Cued Boss - inhibition](#cued-boss)
-    - [F.A.S.T. Response task](#f.a.s.t.-response-task)
     - [Flanker task](#flanker-task)
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
-    - [Restingstate with Eyetracking](#restingstate-with-eyetracking)
     - [Swat](#swat)
     - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
@@ -62,7 +57,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## How to keep this index up-to-date
-To find all the code we put online, we need some sort of overview. We have this by looking at this index. However this index only works if we all keep it up-to-date together. Plus once you make a change, you will be part of the contributors, so people can see that you worked on this. Showing that we do this all together.
+To find all the code we put online, we need some sort of overview. We have this by looking at [this index](https://github.com/CognitiveNeuroLab/.github/tree/main/profile). However this index only works if we all keep it up-to-date together. Plus once you make a change, you will be part of the contributors, so people can see that you worked on this. Showing that we do this all together.
 
 ### Who should add to this index
 Anyone that adds a repo to the CNL page. It doesn't matter if you created it or if you only forked it. If you put it in the main CNL GitHub, you need to add to this index. If you do not do this, it might get deleted after a while to prevent us loosing track of what is what.
@@ -72,8 +67,8 @@ As soon as you add anything to the main CNL GitHub.
 
 ### How to add to this index
 #### create a new Repo branch
-create a new branch by clicking on the "main button" and typing a name for your new branch and clicking the create branch option. 
-![opening a new branch](https://github.com/CognitiveNeuroLab/Index_overview_CNL/blob/main/image/new%20branch.PNG "new branch")
+create a new branch by clicking on the "main button" at the left top corner of your screen and typing a name for your new branch and clicking the create branch option. 
+![opening a new branch](https://github.com/CognitiveNeuroLab/.github/blob/main/image/new%20branch.PNG "new branch")
 
 #### Adding a new sub-group
 Let's say you are the first to create the subgroup "pipelines". You look below the line that says "## index" and look alphabetically where it goes. Since it's a subgroup, you put 2 # before the name + 1 space. 
@@ -92,15 +87,9 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 
 ### Paradigms  
 #### [ASSR](https://github.com/CognitiveNeuroLab/ASSR)
-2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project
-#### [ASSR Oddball](https://github.com/CognitiveNeuroLab/ASSR-oddball)
-2022 - Douwe Horsthuis - presentation paradigm - created and used for SFARI project (2021)
-#### [Beep-Flash SFARI](https://github.com/CognitiveNeuroLab/beep-flash-sfari)
-2014 - Lab Paradigm - Presentation paradigm - Adaptation of Beep-flash-kids (2014) Used orignally for [Murphy paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aur.1374)  
+2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project  
 #### [Cued boss](https://github.com/CognitiveNeuroLab/Experiment_Cued_BOSS_Active_and_passive_inhibition)
-2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.  
-#### [F.A.S.T. Response task](https://github.com/CognitiveNeuroLab/F.A.S.T.-response-experiment)
-2022 - Douwe Horsthuis - Presentation Paradigm - created and used for SFARI project (2021)
+2020 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's 22q and schizophrenia research to measure active and passive inhibition.
 #### [Flanker task](https://github.com/CognitiveNeuroLab/Flanker_task_experiment)
 2021 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's cystinosis project (2021)
 #### [N-Back task](https://github.com/CognitiveNeuroLab/N-back-task-experiment)
@@ -112,8 +101,6 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 2020 - Douwe Horsthuis - Presentation Paradigm - Duration discrimination - created and used for Ana Francisco's 22q/schizophrenia cystinosis project  (2021)   
 2020 - Douwe Horsthuis - Presentation Paradigm - Omission - created and used for Ana Francisco's 22q/schizophrenia project  (2020)     
 2020 - Douwe Horsthuis - Presentation Paradigm - Rhythm - created and used for Ana Francisco's 22q/schizophrenia (2021)  
-#### [Restingstate with eyetracking](https://github.com/CognitiveNeuroLab/restingstate-with-eyetracking)
-2022 - Douwe Horsthuis - Presentation Paradigm - Simple restingstate paradigm with eyetracking for SFARI project (2021)
 #### [swat](https://github.com/CognitiveNeuroLab/swat-experiment)  
 2021 - Douwe Horsthuis - Presentation Paradigm - updated the swat_kids paradigm (2021) 
 original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/article/pii/S1053811903005044)
@@ -125,7 +112,7 @@ original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/arti
   2021 - Shlomit Beker - Matlab - Anticipatory analysis of data from ASD children (aka VAMP)
   
     - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
-#### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
+#### [Pipeline EEG to ERP EEGlab stats R](https://github.com/CognitiveNeuroLab/Pipeline_EEG_to_ERP_EEGlab_stats_R)
 2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in R studio
 
     - Francisco, A. A., Foxe, J. J., Horsthuis, D. J., DeMaio, D., & Molholm, S. (2020). Assessing auditory processing endophenotypes associated with Schizophrenia in individuals with 22q11. 2 deletion syndrome. Translational psychiatry, 10(1), 1-11
@@ -183,16 +170,9 @@ Cognitive Neurophysiology Lab - [@CNL_Einstein](https://twitter.com/CNL_Einstein
 https://www.cognitiveneurolab.com/
 https://www.urmc.rochester.edu/labs/cognitive-neurophysiology.aspx  
 
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[contributors-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[forks-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/network/members
-[stars-shield]: https://img.shields.io/github/stars/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[stars-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[issues-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/issues
-[license-shield]: https://img.shields.io/github/license/CognitiveNeuroLab/Index_overview_CNL.svg?style=for-the-badge
-[license-url]: https://github.com/CognitiveNeuroLab/Index_overview_CNL/blob/master/LICENSE.txt
-
+[contributors-shield]: https://img.shields.io/github/contributors/CognitiveNeuroLab/.github.svg?style=for-the-badge
+[contributors-url]: https://github.com/CognitiveNeuroLab/.github/graphs/contributors
+[issues-shield]: https://img.shields.io/github/issues/CognitiveNeuroLab/.github.svg?style=for-the-badge
+[issues-url]: https://github.com/CognitiveNeuroLab/.github/issues
+[license-shield]: https://img.shields.io/github/license/CognitiveNeuroLab/.github.svg?style=for-the-badge
+[license-url]: https://github.com/CognitiveNeuroLab/.github/blob/master/LICENSE.txt
