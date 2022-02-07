@@ -56,6 +56,8 @@
     - [readme template](#readme-template)
     - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
     - [Using interpolation to go from 160 channel data to 64](#using-interpolation-to-go-from-160-channel-data-to-64)
+  - [Working Repos](#working-repos)
+    - [PPE Mobile](#ppe-mobile)
                                          
       
 
@@ -170,7 +172,15 @@ original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/arti
 #### [Readme Template](https://github.com/CognitiveNeuroLab/README-Template)
 2019 - (forked)othneildrew - HTML/Markdown - Readme template for Github
 #### [Trial by trial data export eeglab](https://github.com/CognitiveNeuroLab/trial_by_trial_data_export_eeglab)
-2021 - Douwe Horsthuis - Matlab - to export data from EEGlab to external programs keeping individual trials.
+2021 - Douwe Horsthuis - Matlab - to export data from EEGlab to external programs keeping individual trials.  
+  
+  
+### Working Repos
+These repos are currently in use to work in colaboration on projects. Most will be set to private. This means that you cannot google them, you cannot see/find them unless you are a part of this github organization. 
+  
+#### [PPE Mobile](https://github.com/CognitiveNeuroLab/ppe-mobile)
+
+
 
 ## License
 
