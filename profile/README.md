@@ -39,6 +39,7 @@
     - [Anticipatory activity in ASD](#anticipatory-activity-in-ASD)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
     - [Resting state Pipeline- Pre-process/Microstates/PowerFrequency](#resting-state-pipeline--pre-processmicrostatespowerfrequency)
+    - [Sfari pipelines all paradigms](#sfari-pipelines-all-paradigms)
     - [Speech-in-noise pipeline](#speech-in-noise-pipeline)
     - [Test-retest](#test-retest)
   - [Statistics](#statistics)
@@ -136,6 +137,8 @@ original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/arti
     - Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). Orphanet Journal of Rare Diseases, 16(1), 1-10.  
 #### [Resting state Pipeline- Pre-process/Microstates/PowerFrequency](https://github.com/CognitiveNeuroLab/resting-state-analysis-pipeline-microstates-frequency)  
 2021 - Ana Francisco, Douwe Horsthuis, Filip De Sanctis - Matlab - Pipeline to analyse Resting state data using EEGlab, looking at microstates and power/frequency
+#### [Sfari pipelines all paradigms](https://github.com/CognitiveNeuroLab/sfari-analysis-pipelines)  
+2022 - Douwe Horsthuis, Shlomit Beker, Filip De Sanctis, Sophie Molholm - Pipeline to analyse all Sfari projects, mostly frequency domain related  
 #### [Speech-in-noise pipeline](https://github.com/CognitiveNeuroLab/Speech-in-noise-pipeline)
 2021 - General lab effort - Matlab SPSS - Pipeline to pre-process SiN data
 #### [Test-retest](https://github.com/Shlomit-Beker/Test-retest)
