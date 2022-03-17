@@ -30,6 +30,7 @@
     - [Cued Boss - inhibition](#cued-boss)
     - [F.A.S.T. Response task](#f.a.s.t.-response-task)
     - [Flanker task](#flanker-task)
+    - [Illusory Contours](#illusory-contours)
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
     - [Restingstate with Eyetracking](#restingstate-with-eyetracking)
@@ -105,7 +106,9 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 #### [F.A.S.T. Response task](https://github.com/CognitiveNeuroLab/F.A.S.T.-response-experiment)
 2022 - Douwe Horsthuis - Presentation Paradigm - created and used for SFARI project (2021)
 #### [Flanker task](https://github.com/CognitiveNeuroLab/Flanker_task_experiment)
-2021 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's cystinosis project (2021)
+2021 - Douwe Horsthuis - Presentation paradigm - created and used for Ana Francisco's cystinosis project (2021)  
+#### [Illusory Contours](https://github.com/CognitiveNeuroLab/Illusory-Contours)
+2021 - Emily Knight - Presentation paradigm - creatd and used for specific ASD study, modified for Sfari project
 #### [N-Back task](https://github.com/CognitiveNeuroLab/N-back-task-experiment)
 2021 - Douwe Horsthuis - Presentation Paradigm - Created and used for Ana Francisco's Cystinosis Project (2021)
 #### [Oddball experiments](https://github.com/CognitiveNeuroLab/Oddball_experiments)
