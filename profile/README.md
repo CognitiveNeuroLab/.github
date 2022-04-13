@@ -26,9 +26,10 @@
   - [Paradigms](#paradigms)
     - [ASSR](#assr)
     - [ASSR oddball](#assr-oddball)
+    - [AVSRT](#avsrt)
     - [Beep-flash sfari](#beep-flash-sfari)
     - [Cued Boss - inhibition](#cued-boss)
-    - [F.A.S.T. Response task](#f.a.s.t.-response-task)
+    - [F.A.S.T. Response task](#f-a-s-t--response-task)
     - [Flanker task](#flanker-task)
     - [N-Back task](#n-back-task)
     - [Oddball experiments](#oddball-experiments)
@@ -96,7 +97,9 @@ The index is divided in sub-groups. If your repo does not fall within a subgroup
 #### [ASSR](https://github.com/CognitiveNeuroLab/ASSR)
 2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project
 #### [ASSR Oddball](https://github.com/CognitiveNeuroLab/ASSR-oddball)
-2022 - Douwe Horsthuis - presentation paradigm - created and used for SFARI project (2021)
+2022 - Douwe Horsthuis - presentation paradigm - created and used for SFARI project (2021)  
+#### [AVSRT](https://github.com/CognitiveNeuroLab/avsrt)  
+???? - Lab Paradigm - Presentation paradigm - published on mulitple times  
 #### [Beep-Flash SFARI](https://github.com/CognitiveNeuroLab/beep-flash-sfari)
 2014 - Lab Paradigm - Presentation paradigm - Adaptation of Beep-flash-kids (2014) Used orignally for [Murphy paper](https://onlinelibrary.wiley.com/doi/full/10.1002/aur.1374)  
 #### [Cued boss](https://github.com/CognitiveNeuroLab/Experiment_Cued_BOSS_Active_and_passive_inhibition)
