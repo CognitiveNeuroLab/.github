@@ -56,6 +56,7 @@
     - [mTRF-Toolbox](#mtrf-toolbox)
   - [Utilities](#utilities)
     - [Adding Eyelink to a Presentation® Experiment](#adding-eyelink-to-a-presentation-experiment)
+    - [Plot Matlab directly in PowerPoint](https://github.com/CognitiveNeuroLab/matlab-plot-to-powerpoint)
     - [Practicing deleting components after ICA](#practicing-deleting-components-after-ica)
     - [readme template](#readme-template)
     - [Trial by trial data export eeglab](#trial-by-trial-data-export-eeglab)
@@ -177,6 +178,8 @@ original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/arti
 ### Utilities
 #### [Adding Eyelink to a Presentation® Experiment](https://github.com/CognitiveNeuroLab/Adding-Eyelink-to-experiment)
 2021 - Douwe Horsthuis - Presentation - Presentation code that is needed to add eye tracking to your paradigm, double checked by the people from [SR-research](https://www.sr-research.com/). 
+#### [Plot Matlab figure in Powerpoint](https://github.com/CognitiveNeuroLab/matlab-plot-to-powerpoint/)  
+2022 - Douwe Horsthuis - Matlab - Matlab code to plot directly into a powerpoint instead of having to input figures manually into it.
 #### [Practicing deleting components after ICA](https://github.com/CognitiveNeuroLab/ICA_Practice)
 2021 - Ana Francisco, Douwe Horsthuis, Filip De Sanctis, Sophie Molholm and Seyda Tikir - Matlab - A script for practicing what components to delete after doing ICA using EEGlab and its IClabel toolbox to verify.
 #### [Using interpolation to go from 160 channel data to 64](https://github.com/CognitiveNeuroLab/Interpolating_160ch_to_64ch_eeglab)
