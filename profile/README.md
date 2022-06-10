@@ -23,6 +23,8 @@
     - [When to add to this index](#when-to-add-to-this-index)
     - [How to add to this index](#how-to-add-to-this-index)  
 2. [Index](#index)
+  - [Protocols](#protocols)  
+    - [EEG Data Collection Standard Operating Procedure](#eeg-data-collection-sop)
   - [Paradigms](#paradigms)
     - [ASSR](#assr)
     - [ASSR oddball](#assr-oddball)
@@ -95,8 +97,11 @@ Make sure there is the same amount of indents as for the other repos.
 After saving all the changes you made in the new branch. Click on the "pull requests button". Click the green "New pull request" button. Make sure you are comparing the right branches with each other. This means the "main" branch should be the first box and whatever you called yours should be in the one on the right. After that you hit "create pull request" two times. If correct you can now choose "merge pull request". After this you should delete your old branch.
 
 ## Index
-The index is divided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.
-
+The index is divided in sub-groups. If your repo does not fall within a subgroup, feel free to create a new one.  
+    
+### Protocols  
+#### [EEG Data Collection SOP](https://github.com/CognitiveNeuroLab/EEG-SOP)  
+2022 - Laura Ziemer, Douwe Horsthuis, Kamy Wakim - EEG data collection protocol
 ### Paradigms  
 #### [ASSR](https://github.com/CognitiveNeuroLab/ASSR)
 2018 - Olga Sysoeva - Presentation paradigm - - created and used for Olga and Tufikameni's Rett project
