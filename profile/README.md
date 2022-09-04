@@ -42,6 +42,7 @@
     - [Visual working memory task](#visual-working-memory-task)
   - [Pipelines](#pipelines)
     - [Anticipatory activity in ASD](#anticipatory-activity-in-asd)
+    - [EEG quality analysis pipeline](#eeg-quality-analysis-pipeline)
     - [Pipeline EEG to ERP EEGlab stats R](#pipeline-eeg-to-erp-eeglab-stats-r)
     - [Resting state Pipeline- Pre-process/Microstates/PowerFrequency](#resting-state-pipeline--pre-processmicrostatespowerfrequency)
     - [Sfari pipelines all paradigms](#sfari-pipelines-all-paradigms)
@@ -142,7 +143,9 @@ original used for [Wylie Javitt Foxe](https://www.sciencedirect.com/science/arti
 #### [Anticipatory activity in ASD](https://github.com/Shlomit-Beker/Anticipatory-activity-in-ASD)
   2021 - Shlomit Beker - Matlab - Anticipatory analysis of data from ASD children (aka VAMP)
   
-    - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)
+    - Beker, S., Foxe, J. J., Molholm S., (https://www.biorxiv.org/content/10.1101/2020.05.07.083154v1)  
+#### [EEG quality analysis pipeline](https://github.com/DouweHorsthuis/EEG-quality-analysis)  
+2022 - Douwe Horsthuis - Matlab - EEG pipeline to pre-process data and get a report of the quality of the data.(Behavioral, Eye tracking, Time frequency, ERPS)
 #### [Pipeline EEG to ERP EEGlab stats R](https://github.com/DouweHorsthuis/EEG_to_ERP_pipeline_stats_R)
 2021 - Douwe Horsthuis - Matlab and R - EEG pipeline relying on EEGlab/ERPlab and potential for statistics (including mixed effect models) in R studio
 
